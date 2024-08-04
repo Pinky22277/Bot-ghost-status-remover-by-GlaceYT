@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["MineDream"];
+const statusMessages = ["play.MineDream.in"];
 
 
 let currentIndex = 0;
